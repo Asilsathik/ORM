@@ -44,7 +44,7 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 ```
 ## OUTPUT
-![OUTPUT](./eid.png)
+![OUTPUT](./table.png)
 
 
 ## RESULT
